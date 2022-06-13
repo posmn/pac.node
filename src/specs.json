@@ -1,6 +1,6 @@
 {
     "id": "posmn.pac.node" ,
-    "version" : "0.0.2+0.17.0.4",
+    "version" : "0.0.3+0.17.0.4",
     "dependencies": [
         { "id":"btc.base" }
     ]
