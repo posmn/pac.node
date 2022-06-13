@@ -1,0 +1,7 @@
+{
+    "id": "posmn.pac.node" ,
+    "version" : "0.0.1+0.17.0.4",
+    "dependencies": [
+        { "id":"btc.base" }
+    ]
+}

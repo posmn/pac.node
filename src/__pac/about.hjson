@@ -1,0 +1,10 @@
+{
+    "Description": '''
+Paccoin masternode'''
+    Links: [
+        { 
+            website: "https://pacprotocol.com/",
+            explorer: "https://explorer.pacglobal.io/"
+        }
+    ]
+}
