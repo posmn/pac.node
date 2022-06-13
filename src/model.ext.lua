@@ -7,6 +7,7 @@ am.app.set_model(
             masternode = am.app.get_configuration("NODE_PRIVKEY") and 1 or nil
         },
         DAEMON_URL = "https://utils.pacprotocol.com/yansafe/core/v0.17.0.4/pacprotocol-v0.17.0.4-lin64.tgz",
+        DAEMON_ARCHIVE_KIND = "tar.gz",
         DAEMON_NAME = "pacprotocold",
         CLI_NAME = "pacprotocol-cli",
         CONF_NAME = "pacprotocol.conf",
